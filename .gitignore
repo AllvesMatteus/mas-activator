@@ -1,0 +1,6 @@
+﻿# Build temporario
+build_tmp/
+__pycache__/
+*.pyc
+*.pyo
+
